@@ -9687,8 +9687,8 @@ li.comment {
 \*----------------------------------------*/
 .widget_search .form-search {
   width: 100%;
-  height: 36px;
-  height: 2.57143rem; }
+  height: 48px;
+  height: 3.428571429rem; }
 
 /*-----------------------------------------*\
                WIDGET NAV MENU
@@ -10252,8 +10252,8 @@ blockquote:before, .separator--subsection, .wp-caption {
 .form-search {
   position: relative;
   width: 100%;
-  height: 36px;
-  height: 2.57143rem; }
+  height: 48px;
+  height: 3.428571429rem; }
 
 .search-query {
   font-size: 14px;
