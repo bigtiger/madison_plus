@@ -5,6 +5,7 @@
 }
 
 .search-query {
+    width: auto !important;
     @include font-size(14px);
     border: 1px solid #ddd;
     position: absolute;
